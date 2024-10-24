@@ -1,0 +1,6 @@
+experiments*
+data/*
+*.pyc
+
+# local notebooks
+_*.ipynb

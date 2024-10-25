@@ -2,9 +2,9 @@
 
 We release a dataset of time-varying appearance such as rusting, drying, melting, molding, etc.
 
-| ![changingcolor_leaves](../assets/changingcolor_leaves.gif) | ![crystallizing_copper](../assets/crystallizing_copper.gif) | ![decaying_melon](../assets/decaying_melon.gif)           | ![growing_sprouts](../assets/growing_sprouts.gif)     | ![melting_honey](../assets/melting_honey.gif)           | ![rusting_steel](../assets/rusting_steel.gif)   |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- |
-| ![copper_patinating](../assets/copper_patinating.gif)       | ![clay_solidifying](../assets/clay_solidifying.gif)         | ![watercolor_painting](../assets/watercolor_painting.gif) | ![honeycomb_melting](../assets/honeycomb_melting.gif) | ![salt_crystallizing](../assets/salt_crystallizing.gif) | ![cheese_melting](../assets/cheese_melting.gif) |
+| ![changingcolor_leaves](../assets/changingcolor_leaves.webp) | ![crystallizing_copper](../assets/crystallizing_copper.webp) | ![decaying_melon](../assets/decaying_melon.webp)           | ![growing_sprouts](../assets/growing_sprouts.webp)     | ![melting_honey](../assets/melting_honey.webp)           | ![rusting_steel](../assets/rusting_steel.webp)   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------ |
+| ![copper_patinating](../assets/copper_patinating.webp)       | ![clay_solidifying](../assets/clay_solidifying.webp)         | ![watercolor_painting](../assets/watercolor_painting.webp) | ![honeycomb_melting](../assets/honeycomb_melting.webp) | ![salt_crystallizing](../assets/salt_crystallizing.webp) | ![cheese_melting](../assets/cheese_melting.webp) |
 
 ## Download
 

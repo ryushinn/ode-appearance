@@ -83,7 +83,11 @@ Please cite our paper if you use the code or data.
 @article{liuNeuralDifferentialAppearance2024,
   title={Neural Differential Appearance Equations},
   author={Liu, Chen and Ritschel, Tobias},
-  journal={ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia)},
+  journal={ACM Transactions on Graphics},
+  volume={43},
+  number={6},
+  pages={1--17},
   year={2024},
+  doi={10.1145/3687900},
 }
 ```

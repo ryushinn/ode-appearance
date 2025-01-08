@@ -8,12 +8,12 @@ We release a dataset of time-varying appearance such as rusting, drying, melting
 
 ## Download
 
-| Links                                                                            | Description                                                                                                           | Size   |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
-| [RGB_dynamic_textures](https://figshare.com/s/1d54dad8e0e659259ed9)              | 22 dynamic textures with time-varying visual statistics; Each is 5s GIF;                                              | 2.2G   |
-| [SVBRDF_dynamic_flash_textures](https://figshare.com/s/27eca8094c148021bf63)     | 21 flash-lit videos of time-varying materials; each has 100 JPG frames that are equally-spaced sampled from raw data; | 12.8G  |
-| [RGB_dynamic_textures_raw](https://figshare.com/s/5b81379b5c563c13a7f2)          | Raw data for dynamic textures                                                                                         | 7.4G   |
-| [SVBRDF_dynamic_flash_textures_raw](https://figshare.com/s/438b9971ba0ab902e1e0) | Raw data for flash-lit videos, including raw photographs for captured data and Blender scenes for synthetic data      | 118.3G |
+| Links                                                                    | Description                                                                                                           | Size   |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ------ |
+| [RGB_dynamic_textures](https://doi.org/10.5522/04/27280668)              | 22 dynamic textures with time-varying visual statistics; Each is 5s GIF;                                              | 2.2G   |
+| [SVBRDF_dynamic_flash_textures](https://doi.org/10.5522/04/27284520)     | 21 flash-lit videos of time-varying materials; each has 100 JPG frames that are equally-spaced sampled from raw data; | 12.8G  |
+| [RGB_dynamic_textures_raw](https://doi.org/10.5522/04/27284649)          | Raw data for dynamic textures                                                                                         | 7.4G   |
+| [SVBRDF_dynamic_flash_textures_raw](https://doi.org/10.5522/04/27284667) | Raw data for flash-lit videos, including raw photographs for captured data and Blender scenes for synthetic data      | 118.3G |
 
 To run our codebase, please donwload the first two ready-to-use datasets.
 

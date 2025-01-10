@@ -55,7 +55,13 @@ data
 
 ## Usages
 
-### Training
+### Start with trained weights
+
+You can download pre-trained weights [here](https://drive.google.com/file/d/10pjNWawgkpZOla_c4ljNGXy9Z7rh85h5/view?usp=sharing). Results reported in the paper can be reproduced with these weights.
+
+To use these weights, please unzip the file in the root folder of this repo and run the inference scripts below.
+
+### Training from scratch
 
 ```bash
 # to train with dynamic textures
@@ -74,6 +80,8 @@ bash scripts/sample_odetexture.sh data/RGB_dynamic_textures experiments_texture
 # to sample with trained dynamic BRDF ODEs
 bash scripts/sample_odeBRDF.sh data/SVBRDF_dynamic_flash_textures experiments_svbrdf
 ```
+
+Sampled results are in `experiments_xxx` folders.
 
 ## Citation
 

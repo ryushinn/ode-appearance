@@ -89,7 +89,8 @@ class Resample(eqx.Module):
 
 
 class SinusoidalPosEmb(eqx.Module):
-    emb: jax.Array
+    # Set as a static field due to compatibility reason with old equinox versions
+    emb: jax.Array = eqx.field(static=True)
 
     def __init__(self, dim):
         half_dim = dim // 2
